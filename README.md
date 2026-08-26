@@ -20,9 +20,11 @@ My interests include:
 
 ## Before the PhD
 
-Before graduate school, I spent four years at Maruti Suzuki R&D working on automotive fuel-tank systems, from early design and development through mass production.
+Before graduate school, I spent four years at Maruti Suzuki R&D working on fuel-tank systems for the Maruti Suzuki Dzire, a compact sedan, and the Swift, a hatchback. I was involved in their design and development from the concept stage through mass production.
 
-That experience still shapes the way I approach research. I appreciate a clean model, but I also care about what happens when the model meets real hardware, imperfect measurements, manufacturing constraints, and operating conditions that were not in the original plan.
+I also contributed to development work for the Eeco, a multipurpose van used for both passenger and cargo transport, and the Super Carry, a light commercial mini-truck. Part of my work supported the upcoming BS6 Phase 3 / AIS-175 emissions requirements.
+
+That experience still shapes the way I approach research. I appreciate a clean model, but I also care about what happens when the model meets real hardware, manufacturing constraints, regulatory requirements, and operating conditions that were not in the original plan.
 
 ## Publication
 
