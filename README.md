@@ -2,9 +2,7 @@
 
 **PhD student in Mechanical Engineering at the University of Minnesota Twin Cities**
 
-I work on the part between a sensor reading and a useful decision.
-
-My research is focused on state estimation, sensor fusion, and control for agricultural robots. A question I keep coming back to is simple to state but difficult to solve: when measurements are noisy, incomplete, or disagree with one another, how can a machine still understand what it is doing?
+My research is focused on state estimation, sensor fusion, and control algorithms for agricultural robots. A question I keep coming back to is simple to state but difficult to solve: when measurements are noisy, incomplete, or disagree with one another, how can a machine still understand what it is doing?
 
 ## What I am working on
 
